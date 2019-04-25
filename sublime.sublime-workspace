@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter"
+			],
+			[
+				"date",
+				"daterange"
+			],
+			[
+				"days",
+				"days_in_month"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"Date",
+				"DateField"
+			],
+			[
+				"Ad",
+				"AddTransactionForm"
+			],
+			[
+				"Add",
+				"AddTransactionForm"
+			],
+			[
+				"spen",
+				"spent_on_day"
+			],
+			[
+				"gen",
+				"gen_calendar"
+			],
+			[
+				"month",
+				"month_days"
+			],
+			[
+				"day",
+				"days_of_last_month"
+			],
+			[
+				"prev",
+				"prevmonth"
+			],
+			[
+				"progr",
+				"progress_types"
+			],
+			[
+				"cur",
+				"cur_amount"
+			],
+			[
+				"per",
+				"percentages"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"bud",
+				"bud_dict"
+			],
+			[
+				"cu",
+				"cur_amount"
+			],
+			[
+				"bu",
+				"budgets"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"form",
+				"formatted_amount"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"all",
+				"allTrans"
+			],
+			[
+				"val",
+				"validate_on_submit"
+			],
+			[
+				"A",
+				"AddTransactionForm"
+			],
+			[
+				"daily",
+				"daily_allowance"
+			],
+			[
+				"first",
+				"first_or_404"
+			],
+			[
+				"err",
+				"errorhandler"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"Pas",
+				"password"
+			],
+			[
+				"t",
+				"transactions"
+			],
+			[
+				"send",
+				"send_async_email"
+			],
+			[
+				"R",
+				"ResetPasswordForm"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"res",
+				"reset_password"
+			],
+			[
+				"exp",
+				"expires_in"
+			],
+			[
+				"html",
+				"html_body"
+			],
+			[
+				"ne",
+				"next_url"
+			],
+			[
+				"next",
+				"next_url"
+			],
+			[
+				"Submit",
+				"SubmitField"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"asser",
+				"assertEqual"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"followe",
+				"followed"
+			],
+			[
+				"assert",
+				"assertTrue"
+			],
+			[
+				"foll",
+				"followed_id"
+			],
+			[
+				"follower",
+				"follower_id"
+			],
+			[
+				"set",
+				"setLevel"
+			],
+			[
+				"mail",
+				"mail_handler"
+			],
+			[
+				"MAIL",
+				"MAIL_PASSWORD"
+			],
+			[
+				"e",
+				"edit_profile"
+			],
+			[
+				"url_",
+				"url_parse"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"con",
+				"convertFromEuros"
+			],
+			[
+				"b",
+				"bin2dec"
+			],
+			[
+				"fa",
+				"factor"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Pass",
+				"PasswordField"
+			],
+			[
+				"P",
+				"PasswordField"
+			],
+			[
+				"atm",
+				"atm_number"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"nex",
+				"next_page"
+			],
+			[
+				"check",
+				"check_password_hash"
+			],
+			[
+				"recal",
+				"recalcDAsFromExpenses"
+			],
+			[
+				"rec",
+				"recalcDAsFromExpenses"
+			],
+			[
+				"ex",
+				"excess"
+			],
+			[
+				"fet",
+				"fetchone"
+			],
+			[
+				"add_",
+				"add_money"
+			],
+			[
+				"add",
+				"add_expense"
+			],
+			[
+				"sp",
+				"spread_to_DAs"
+			],
+			[
+				"da",
+				"daysthismonth"
+			],
+			[
+				"retu",
+				"returnTA"
+			],
+			[
+				"today",
+				"today"
+			],
+			[
+				"Today",
+				"todayAllowance"
+			],
+			[
+				"total",
+				"totalUnspent"
+			],
+			[
+				"tot",
+				"totalUnspent"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fe",
+				"fetchone"
+			],
+			[
+				"updat",
+				"update_DA_calendar"
+			],
+			[
+				"cal",
+				"calc_allowance"
+			],
+			[
+				"up",
+				"update_user_table"
+			],
+			[
+				"print",
+				"print_menu"
+			],
+			[
+				"E",
+				"Expenses"
+			],
+			[
+				"In",
+				"INTEGER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gshare/settings.py",
+			"settings":
+			{
+				"buffer_size": 3109,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gshare/urls.py",
+			"settings":
+			{
+				"buffer_size": 748,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "g/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "g/admin.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "g/apps.py",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "g/models.py",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "g/views.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/grainwat/Desktop/pyf/Projects/gshare/gshare"
+	],
+	"file_history":
+	[
+		"/C/Users/grainwat/Desktop/pyf/Projects/gshare/gshare/g/tests.py",
+		"/C/Users/grainwat/Desktop/pyf/plot.py",
+		"/C/Users/grainwat/Desktop/pyf/markov.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/util/assets.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/static/rice.js",
+		"/C/Users/grainwat/Desktop/pyf/Projects/gordonblog/gordonblog/gordonblog/settings.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/templates/expenses.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/templates/new_entry.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/routes.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/tables.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/500.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/templates/404.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/templates/_post.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/config.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Budgetbuddy/app/budgetbuddy.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/tests.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/models.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/forms.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/config.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/budgetdaddy/bb1.py",
+		"/C/Users/grainwat/Desktop/pyf/currencies.py",
+		"/C/Users/grainwat/Desktop/pyf/ex.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/routes.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/__init__.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/mblog.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/templates/base.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/templates/index.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/templates/register.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/templates/login.html",
+		"/C/Users/grainwat/Documents/Scripts/atmdispatch.py",
+		"/C/Users/grainwat/Desktop/atmdispatch.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/app/config.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/budgetdaddy/outline.txt",
+		"/C/Users/grainwat/Desktop/pyf/Projects/Flasklearn/home.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/bb1.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/outline.txt",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/bb1_prework.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/bb.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/sqltut/testread.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/easylearnflask/app.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/sqltut/test.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/user.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/bb_prerework.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/bbproto/test.py",
+		"/C/Users/grainwat/Desktop/pyf/Projects/easylearnflask/templates/layout.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/easylearnflask/templates/test.html",
+		"/C/Users/grainwat/Desktop/pyf/Projects/easylearnflask/hello.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gshare/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gshare/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "g/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "g/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "g/apps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "g/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "g/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 117.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
